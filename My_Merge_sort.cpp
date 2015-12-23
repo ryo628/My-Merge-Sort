@@ -16,8 +16,6 @@ LISTEL *merge_sort(LISTEL *top);
 LISTEL *do_sort(LISTEL *a, LISTEL *b);
 
 /* 【グローバル変数】*/
-//転置配列
-int tmp[MAX];
 //ノードのはじめ
 LISTEL *root;
 
